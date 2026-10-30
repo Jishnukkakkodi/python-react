@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img"
+     aria-label="AlgoNova">
+  <!-- Three ascending bars with a wick on the tallest: a price chart, which is
+       the one thing still legible at 16 pixels. A solid ground rather than a
+       transparent one, so the mark reads on a light and a dark browser chrome
+       alike - a favicon cannot inherit the page's theme. -->
+  <rect width="32" height="32" rx="7" fill="#11201f"/>
+  <rect x="6"  y="19" width="5" height="7"  rx="1.5" fill="#2dd4bf" opacity=".55"/>
+  <rect x="13.5" y="13" width="5" height="13" rx="1.5" fill="#2dd4bf" opacity=".8"/>
+  <rect x="21" y="8"  width="5" height="18" rx="1.5" fill="#2dd4bf"/>
+  <rect x="23" y="4"  width="1" height="5"  rx=".5"  fill="#2dd4bf"/>
+</svg>
